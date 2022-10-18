@@ -1,0 +1,15 @@
+nav{
+    background-color: antiquewhite;
+}
+#main{
+display: inline;
+}
+section{
+  
+    width: 50%;
+    height:500px;
+    font-size: larger;
+}
+body{
+    background-color: aquamarine;
+}
